@@ -1,7 +1,7 @@
 # Authenticador-BibliONtec
 Um aplicativo autentificador para ajudar a acessar o BibliONtec
 
-- Importante -
+ *Importante* 
  -  Para funcionar o modo web no computador vai ser preciso instalar o "NodeJS", caso não tenha o aplicativo não vai funcionar.
  -  Importe o banco de dados no Xampp, na parte do administrador do MYSQL com o nome do banco sendo "bibliontec".
 
